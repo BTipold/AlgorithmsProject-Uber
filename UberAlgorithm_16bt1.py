@@ -3,6 +3,8 @@
 ### UBER PATHING ###
 ####################
 
+## First time learning python ;)
+
 ### INIT ###
 import sys
 import csv
